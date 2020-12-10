@@ -2,6 +2,8 @@
 
 A simple game built on basic HTML, CSS and JS.
 
+### [Play the game now!!](https://kunalgehlot.github.io/Dice-Game/)
+
 ![Home Page](img/01.png)
 
 # How to Play ❓
@@ -29,3 +31,5 @@ Click Hold to add the current score to the final score. The first player to reac
 Click on New game to start a new game.
 
 ![New game](img/05.png)
+
+### [Play the game now!!](https://kunalgehlot.github.io/Dice-Game/)
